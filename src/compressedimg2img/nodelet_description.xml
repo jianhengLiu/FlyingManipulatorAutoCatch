@@ -1,0 +1,5 @@
+<library path="lib/libcompressedimg2img_nodelet">
+    <class  name="compressedimg2img/Compressedimg2ImgNodelet" type="compressedimg2img_nodelet_ns::Compressedimg2ImgNodelet"  base_class_type="nodelet::Nodelet">
+        <description>Compressedimg2ImgNodelet</description>
+    </class>
+</library>
